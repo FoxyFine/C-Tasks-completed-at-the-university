@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="button_send">Отправить</string>
+    <string name="hint_enter_msg">Введите сообщение</string>
+</resources>
